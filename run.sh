@@ -15,6 +15,9 @@
 
 echo "update submodule"
 git submodule update --init --recursive --remote
+pushd ct-get-sth-log
+git checkout master
+popd
 
 echo "fetching get-sth from ct log list."
 for api in $(cat ctlogs.txt | grep -v '^#')
