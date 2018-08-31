@@ -4,8 +4,8 @@ REPO=github.com/secret-castle/ct-get-sth-log
 DIR=ct-get-sth-log
 
 git_config() {
-  git config --global user.email "travis@travis-ci.org"
-  git config --global user.name "Travis CI"
+  git config user.email "travis@travis-ci.org"
+  git config user.name "Travis CI"
 }
 
 git_commit() {

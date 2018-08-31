@@ -2,10 +2,12 @@
 
 # Prerequisites: 
 #
-# 1. Generate the list:
+# 1. Run git submodule update --init --recursive --remote
+#
+# 2. Generate the list:
 # $ curl -s 'https://cs.chromium.org/codesearch/f/chromium/src/components/certificate_transparency/data/log_list.json' | jq -r '.logs[]|.url'
 #
-# 2. After the list is generated, manually review it, and comment out servers that are dead.
+# 3. After the list is generated, manually review it, and comment out servers that are dead.
 
 # 
 # Then run the following query
