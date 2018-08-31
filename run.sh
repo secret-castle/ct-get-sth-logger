@@ -13,6 +13,9 @@
 # Then run the following query
 #
 
+echo "update submodule"
+git submodule update --init --recursive --remote
+
 echo "fetching get-sth from ct log list."
 for api in $(cat ctlogs.txt | grep -v '^#')
 do 
