@@ -1,0 +1,32 @@
+ct.googleapis.com/logs/argon2018/
+ct.googleapis.com/logs/argon2019/
+ct.googleapis.com/logs/argon2020/
+ct.googleapis.com/logs/argon2021/
+ct.googleapis.com/aviator/
+ct.googleapis.com/icarus/
+ct.googleapis.com/pilot/
+ct.googleapis.com/rocketeer/
+ct.googleapis.com/skydiver/
+ct.cloudflare.com/logs/nimbus2018/
+ct.cloudflare.com/logs/nimbus2019/
+ct.cloudflare.com/logs/nimbus2020/
+ct.cloudflare.com/logs/nimbus2021/
+ct1.digicert-ct.com/log/
+ct2.digicert-ct.com/log/
+yeti2018.ct.digicert.com/log/
+yeti2019.ct.digicert.com/log/
+yeti2020.ct.digicert.com/log/
+yeti2021.ct.digicert.com/log/
+yeti2022.ct.digicert.com/log/
+ct.ws.symantec.com/
+vega.ws.symantec.com/
+sirius.ws.symantec.com/
+# log.certly.io/
+# ct.izenpe.com/
+# ctlog.wosign.com/
+# ctlog.api.venafi.com/
+ctlog-gen2.api.venafi.com/
+ctserver.cnnic.cn/
+# ct.startssl.com/
+sabre.ct.comodo.com/
+mammoth.ct.comodo.com/
