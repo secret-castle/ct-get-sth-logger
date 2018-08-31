@@ -1,3 +1,4 @@
 [submodule "ct-get-sth-log"]
 	path = ct-get-sth-log
 	url = https://github.com/secret-castle/ct-get-sth-log
+	branch = master
